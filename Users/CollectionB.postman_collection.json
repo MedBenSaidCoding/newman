@@ -1,0 +1,31 @@
+{
+	"info": {
+		"_postman_id": "5cb68e6b-bf33-4e6d-a8ea-e365180e667d",
+		"name": "CollectionB",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25043575"
+	},
+	"item": [
+		{
+			"name": "GetUsers",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api-generator.retool.com/Wytxeg/data",
+					"protocol": "https",
+					"host": [
+						"api-generator",
+						"retool",
+						"com"
+					],
+					"path": [
+						"Wytxeg",
+						"data"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
